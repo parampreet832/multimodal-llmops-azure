@@ -35,7 +35,8 @@
 </ul>
 
 <h2>📂 Project Structure</h2>
-'''Bash
+'''
+Bash
 ├── .github/workflows      # CI/CD pipelines (GitHub Actions)
 ├── src/
 │   ├── agents/            # LangGraph node logic & state definitions
