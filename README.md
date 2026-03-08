@@ -35,7 +35,7 @@
 </ul>
 
 <h2>📂 Project Structure</h2>
-<h4>Bash</h4>
+'''Bash
 ├── .github/workflows      # CI/CD pipelines (GitHub Actions)
 ├── src/
 │   ├── agents/            # LangGraph node logic & state definitions
@@ -45,7 +45,7 @@
 ├── tests/                 # Unit & Integration tests
 ├── docker-compose.yml     # Local development environment
 └── requirements.txt       # Python dependencies
-
+`
 
 <h2>⚙️ Getting Started</h2>
 <h4>Prerequisites</h4>
